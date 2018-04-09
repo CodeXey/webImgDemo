@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - XLPhotoBrowser+CoderXL (1.2.0):
+    - SDWebImage (~> 4.0.0)
+
+DEPENDENCIES:
+  - XLPhotoBrowser+CoderXL
+
+SPEC CHECKSUMS:
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  XLPhotoBrowser+CoderXL: 2bf4036e2af4611b24bde1681e24c64ed01fbe98
+
+PODFILE CHECKSUM: 5934e0318c3c70328815ea92b92a049dc9d85bf0
+
+COCOAPODS: 1.4.0

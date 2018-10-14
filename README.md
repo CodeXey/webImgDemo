@@ -1,2 +1,3 @@
 # webImgDemo
-web页面图片缩放和浏览,仅仅是个demo
+Scaling & preview the picture on the webView, it's just a demo.
+webView图片缩放和浏览demo。
